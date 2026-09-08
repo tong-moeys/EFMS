@@ -1,0 +1,6 @@
+{
+  "name": "TongICT Inventory System",
+  "description": "គ្រប់គ្រងសម្ភារៈ - Cambodian Institutional Inventory Receipt, Vouchers, and Stock Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
